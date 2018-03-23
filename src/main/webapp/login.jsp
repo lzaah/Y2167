@@ -34,7 +34,7 @@
 
           <div class="inside-block">
             <img src="assets/images/logo-big.png" alt class="logo">
-            <h1><strong>Welcome</strong>校区管理平台1</h1>
+            <h1><strong>Welcome</strong>校区管理平台</h1>
             <h5>欢迎光临后台网页</h5>
 
             <form id="form-signin" class="form-signin">
